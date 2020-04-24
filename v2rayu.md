@@ -1,5 +1,5 @@
 <p style="color:#333333;font-family:&quot;font-size:14px;">
-	1，首先在mac苹果电脑的浏览器里打开<a href="https://www.lanzous.com/i988mbi" target="_blank">https://www.lanzous.com/i988mbi</a>
+	1，首先在mac苹果电脑的浏览器里打开<a href="https://lanzous.com/i988mbi" target="_blank">https://lanzous.com/i988mbi</a>
 	下载最新的v2rayu，并双击下载好的软件安装好
 </p>
 <p style="color:#333333;font-family:&quot;font-size:14px;">
