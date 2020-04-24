@@ -1,72 +1,115 @@
-本教程适用win7,win8,win10的系统
-
-
-
-准备工作：
-
-win7系统需要先安装.net4.62以上版本的依赖包。
-
-.net下载安装地址https://www.microsoft.com/zh-CN/download/details.aspx?id=53344
-
-（win8,win10系统默认是自带.net的,如果没有卸载过无需安装）
-
-
-
-v2rayn是在pc电脑上使用的v2ray客户端。
-
-1.首先，进入下载地址https://www.lanzous.com/i9887fc下载最新的v2rayN.zip压缩包到桌面。
-
-
-
-右键压缩包，解压到v2rayN-Core\(E)
-
-
-
-2.打开解压后的文件夹
-
-
-
-右键点击v2rayN  选择以管理员身份运行 (注意，是v2rayN哦，不要看错了）
-
-（运行后，如果在窗口没看到软件界面，在电脑的右下角状态栏找到软件）
-
-
-
-3.复制购买得到的，长长的一串vmess代码
-
-
-
-4.右键点软件小图标，然后点 从剪贴板导入批量URL
-
-
-
-5.选择服务器，默认是选上的
-
-
-6.开启开关，建议选择开启PAC模式
-
-7.设置完成，点一下"重启服务"
-
-
-
-8.打开浏览器，已经可以正常使用了。
-
-
-
-
-
-
-
-问题解决：
-
-1.如果按教程设置完还无法使用，请检查电脑右下角的电脑日期,和当前的北京时间是否正确，当前北京时间不对的话需要同步时间。
-
-2.如果你的电脑没有.NET framework依賴包，需要下载.net4.62以上版本安装。
-
-https://www.microsoft.com/zh-CN/download/details.aspx?id=53344
-
-安装之后即可正常启动
-
-3.如果还有问题，退出360之类的杀毒软件，防火墙之类的软件
-
-4.检查浏览器是否使用了其他代里，或浏览器代里插件之类的，如果有，需要关掉其他代里或插件。
+<p>
+	本教程适用win7,win8,win10的系统
+</p>
+<p>
+	<br />
+</p>
+<p>
+	准备工作：
+</p>
+<p>
+	win7系统需要先安装.net4.62以上版本的依赖包。
+</p>
+<p>
+	.net下载安装地址<a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=53344" target="_blank">https://www.microsoft.com/zh-CN/download/details.aspx?id=53344</a>
+</p>
+<p>
+	（win8,win10系统默认是自带.net的,如果没有卸载过无需安装）
+</p>
+<p>
+	<br />
+</p>
+<p>
+	v2rayn是在pc电脑上使用的v2ray客户端。
+</p>
+<p>
+	1.首先，进入下载地址<a href="https://www.lanzous.com/i9887fc" target="_blank">https://www.lanzous.com/i9887fc</a>下载最新的v2rayN.zip压缩包到桌面。
+</p>
+<p>
+	<img src="http://imglf4.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MTHY5bzhDQ2g4NENnb0g0WDZyS0VHcHVqaW1mbWtTYmhBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	右键压缩包，解压到v2rayN-Core\(E)
+</p>
+<p>
+	<img src="http://imglf5.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MRld1bytNcFJESWdWSDZ3c3ZHZVFHS3BGM1dIQ2c3MGpRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	2.打开解压后的文件夹
+</p>
+<p>
+	<img src="http://imglf5.nosdn.127.net/img/ZnNCY2xBcFVWYnNGNUo5blA3aVRJd1hzNkp0cHFFT3dNY3ZkRHRvVE9rOUZISHpRd2lQemdRPT0.jpg?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	右键点击v2rayN&nbsp;&nbsp;选择以管理员身份运行&nbsp;(注意，是v2rayN哦，不要看错了）<img src="http://imglf4.nosdn.127.net/img/ZnNCY2xBcFVWYnY0SzVIRXk5K3dzelRIamFRd2t5WHRxZzd6dG5iNVFjTGJ4NUFMR0lxUlpBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	（运行后，如果在窗口没看到软件界面，在电脑的右下角状态栏找到软件）
+</p>
+<p>
+	<img src="http://imglf6.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MTFhHSUlmZGlOd2RpamIzQ1hVT0ZwV09oSjFzcytBV0RRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	3.复制购买得到的，长长的一串vmess代码
+</p>
+<p>
+	<img src="http://imglf3.nosdn.127.net/img/ZnNCY2xBcFVWYnY0SzVIRXk5K3dzK2FVRWd0MWhPUDZ1VVhFWisrZ0F3Z3lwRlQ5eXdVRVVRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	4.右键点软件小图标，然后点&nbsp;从剪贴板导入批量URL
+</p>
+<p>
+	<img src="http://imglf6.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MQkIvM1RUc0FFTnEwbWNsVm04biszTDZ2T2dmcFgrZTB3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	5.选择服务器，默认是选上的
+</p>
+<p>
+	<img src="http://imglf6.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MQWwvb2JZRnJoMHcxRDdyRFhwd1l1aGQwZEo0UnY5d0l3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" /><br />
+6.开启开关，建议选择开启PAC模式<img src="http://imglf5.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MQkZwODFkUURyQVVaR3B5L09INE04WDlUUkFFN3NoRXhRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	7.设置完成，点一下"重启服务"
+</p>
+<p>
+	<img src="http://imglf4.nosdn.127.net/img/ZnNCY2xBcFVWYnZGL3pBT3hEQUtXUGE5QnZQcUhWUU95dklNWnNtYWV6RU1PVDJyclNTTUxnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	8.打开浏览器，已经可以正常使用了。
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<img src="http://imglf4.nosdn.127.net/img/ZnNCY2xBcFVWYnY0SzVIRXk5K3dzeEFXQnpuTGo4L01kNWwvVmJFbGRpRTl5blc0SWQvcXhRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+</p>
+<p>
+	<br />
+</p>
+<p>
+	问题解决：
+</p>
+<p>
+	1.如果按教程设置完还无法使用，请检查电脑右下角的电脑日期,和当前的北京时间是否正确，当前北京时间不对的话需要同步时间。
+</p>
+<p>
+	2.如果你的电脑没有.NET&nbsp;framework依賴包，需要下载.net4.62以上版本安装。
+</p>
+<p>
+	<a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=53344" target="_blank">https://www.microsoft.com/zh-CN/download/details.aspx?id=53344</a>
+</p>
+<p>
+	安装之后即可正常启动
+</p>
+<p>
+	3.如果还有问题，退出360之类的杀毒软件，防火墙之类的软件
+</p>
+<p>
+	4.检查浏览器是否使用了其他代里，或浏览器代里插件之类的，如果有，需要关掉其他代里或插件。
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>
