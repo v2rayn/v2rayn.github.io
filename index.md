@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+1，首先在mac苹果电脑的浏览器里打开https://lanzous.com/i988mbi
 
-You can use the [editor on GitHub](https://github.com/v2rayn/v2rayn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+下载最新的v2rayu，并双击下载好的软件安装好
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+2.运行软件后，在电脑的顶部右边可以看到软件的图标
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+3.复制购买得到的，长长的一串vmess代码
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/v2rayn/v2rayn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+4.复制好代码后，点右上角软件图标，然后点"从粘贴板导入"
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+5.选中刚刚添加的服务器
+
+
+
+6.选择好模式，然后启用（这里是启用开关）
+
+
+7.图标颜色变深，Off代表启用成功
+
+
+
+
+
+打开浏览器，访问google.com现在可以愉快的使用了
