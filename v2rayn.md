@@ -61,15 +61,18 @@
 <p>
 	5.选择服务器，默认是选上的
 </p>
+<p>	<img src="http://jpg.8888888.best/n6.jpg" /></p>
+	
+	<br />
 <p>
-	<img src="http://imglf6.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MQWwvb2JZRnJoMHcxRDdyRFhwd1l1aGQwZEo0UnY5d0l3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" /><br />
-6.开启开关，建议选择开启PAC模式<img src="http://imglf5.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MQkZwODFkUURyQVVaR3B5L09INE04WDlUUkFFN3NoRXhRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+6.开启开关，建议选择开启PAC模式
+
 </p>
-<p>
+<p>	<img src="http://jpg.8888888.best/n7.jpg" /></p><p>
 	7.设置完成，点一下"重启服务"
 </p>
 <p>
-	<img src="http://imglf4.nosdn.127.net/img/ZnNCY2xBcFVWYnZGL3pBT3hEQUtXUGE5QnZQcUhWUU95dklNWnNtYWV6RU1PVDJyclNTTUxnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+		<img src="http://jpg.8888888.best/n8.jpg" /></p>
 </p>
 <p>
 	8.打开浏览器，已经可以正常使用了。
@@ -78,7 +81,7 @@
 	<br />
 </p>
 <p>
-	<img src="http://imglf4.nosdn.127.net/img/ZnNCY2xBcFVWYnY0SzVIRXk5K3dzeEFXQnpuTGo4L01kNWwvVmJFbGRpRTl5blc0SWQvcXhRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+		<img src="http://jpg.8888888.best/n9.jpg" /></p>
 </p>
 <p>
 	<br />
