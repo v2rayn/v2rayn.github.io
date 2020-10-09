@@ -41,26 +41,23 @@
 		<img src="http://jpg.8888888.best/n3.jpg" />
 </p>
 <p>
-	右键点击v2rayN&nbsp;&nbsp;选择以管理员身份运行&nbsp;(注意，是v2rayN哦，不要看错了）	<img src="http://jpg.8888888.best/n4.jpg" />
 </p>
 <p>
 	（运行后，如果在窗口没看到软件界面，在电脑的右下角状态栏找到软件）
 </p>
 <p>
-	<img src="http://imglf6.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MTFhHSUlmZGlOd2RpamIzQ1hVT0ZwV09oSjFzcytBV0RRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+		右键点击v2rayN&nbsp;&nbsp;选择以管理员身份运行&nbsp;(注意，是v2rayN哦，不要看错了
 </p>
 <p>
 	3.复制购买得到的，长长的一串vmess代码
 </p>
 <p>
-	<img src="http://imglf3.nosdn.127.net/img/ZnNCY2xBcFVWYnY0SzVIRXk5K3dzK2FVRWd0MWhPUDZ1VVhFWisrZ0F3Z3lwRlQ5eXdVRVVRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
-</p>
+	<img src="http://jpg.8888888.best/n4.jpg" /></p>
 <p>
 	4.右键点软件小图标，然后点&nbsp;从剪贴板导入批量URL
 </p>
 <p>
-	<img src="http://imglf6.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MQkIvM1RUc0FFTnEwbWNsVm04biszTDZ2T2dmcFgrZTB3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
-</p>
+	<img src="http://jpg.8888888.best/n5.jpg" /></p>
 <p>
 	5.选择服务器，默认是选上的
 </p>
