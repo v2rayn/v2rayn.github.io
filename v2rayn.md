@@ -63,7 +63,6 @@
 </p>
 <p>	<img src="http://jpg.8888888.best/n6.jpg" /></p>
 	
-	<br />
 <p>
 6.开启开关，建议选择开启PAC模式
 
