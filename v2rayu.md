@@ -6,7 +6,7 @@
 	<img src="http://jpg.8888888.best/u1.jpg" /><br />
 	<img src="http://jpg.8888888.best/u2.jpg" />
 </p>
-如果提示未知软件，可能存在危险，点左边的问题，按提示允许运行就可以
+如果提示未知软件，可能存在危险，点左边的问号，按提示允许运行就可以
 <p style="color:#333333;font-family:&quot;font-size:14px;">
 	2.运行软件后，在电脑的顶部右边可以看到软件的图标
 </p>
