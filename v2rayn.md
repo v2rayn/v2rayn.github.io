@@ -23,7 +23,7 @@
 	v2rayn是在pc电脑上使用的v2ray客户端。
 </p>
 <p>
-	1.首先，进入下载地址<a href="https://www.lanzous.com/i9887fc" target="_blank">https://www.lanzous.com/i9887fc</a>下载最新的v2rayN.zip压缩包到桌面。
+	1.首先，进入下载地址<a href="https://ssrr.lanzous.com/i9887fc" target="_blank">https://www.lanzous.com/i9887fc</a>下载最新的v2rayN.zip压缩包到桌面。
 </p>
 <p>
 		<img src="http://jpg.8888888.best/n1.jpg" />
