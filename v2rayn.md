@@ -26,22 +26,22 @@
 	1.首先，进入下载地址<a href="https://www.lanzous.com/i9887fc" target="_blank">https://www.lanzous.com/i9887fc</a>下载最新的v2rayN.zip压缩包到桌面。
 </p>
 <p>
-	<img src="http://imglf4.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MTHY5bzhDQ2g4NENnb0g0WDZyS0VHcHVqaW1mbWtTYmhBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+		<img src="http://jpg.8888888.best/n1.jpg" />
 </p>
 <p>
 	右键压缩包，解压到v2rayN-Core\(E)
 </p>
 <p>
-	<img src="http://imglf5.nosdn.127.net/img/ZnNCY2xBcFVWYnZoNHJwaFIwa25MRld1bytNcFJESWdWSDZ3c3ZHZVFHS3BGM1dIQ2c3MGpRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+		<img src="http://jpg.8888888.best/n2.jpg" />
 </p>
 <p>
 	2.打开解压后的文件夹
 </p>
 <p>
-	<img src="http://imglf5.nosdn.127.net/img/ZnNCY2xBcFVWYnNGNUo5blA3aVRJd1hzNkp0cHFFT3dNY3ZkRHRvVE9rOUZISHpRd2lQemdRPT0.jpg?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+		<img src="http://jpg.8888888.best/n3.jpg" />
 </p>
 <p>
-	右键点击v2rayN&nbsp;&nbsp;选择以管理员身份运行&nbsp;(注意，是v2rayN哦，不要看错了）<img src="http://imglf4.nosdn.127.net/img/ZnNCY2xBcFVWYnY0SzVIRXk5K3dzelRIamFRd2t5WHRxZzd6dG5iNVFjTGJ4NUFMR0lxUlpBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" />
+	右键点击v2rayN&nbsp;&nbsp;选择以管理员身份运行&nbsp;(注意，是v2rayN哦，不要看错了）	<img src="http://jpg.8888888.best/n4.jpg" />
 </p>
 <p>
 	（运行后，如果在窗口没看到软件界面，在电脑的右下角状态栏找到软件）
