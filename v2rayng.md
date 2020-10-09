@@ -18,7 +18,7 @@
 		3.复制购买得到的，长长的一串vmess代码
 	</p>
 	<p>
-		<img src="https://github.com/v2rayn/v2rayn.github.io/blob/master/a1.png?raw=true" />
+		<img src="http://jpg.8888888.best/a1.png?raw=true" />
 	</p>
 	<p>
 		4.打开V2rayng软件,点加号
