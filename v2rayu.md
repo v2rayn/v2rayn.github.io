@@ -31,7 +31,7 @@
 	5.选中刚刚添加的服务器
 </p>
 <p style="color:#333333;font-family:&quot;font-size:14px;">
-		<img src="http://jpg.8888888.best/u4.jpg" />
+		<img src="http://jpg.8888888.best/u6.jpg" />
 <br />
 <br />
 6.选择好模式，然后启用（这里是启用开关）
