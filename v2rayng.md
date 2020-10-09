@@ -24,7 +24,7 @@
 		4.打开V2rayng软件,点加号
 	</p>
 	<p>
-		<img src="https://github.com/v2rayn/v2rayn.github.io/blob/master/a2.png?raw=true" />
+		<img src="http://jpg.8888888.best/a2.png?raw=true" />
 	</p>
 	<p>
 		点加号
@@ -36,7 +36,7 @@
 		<br />
 	</p>
 	<p>
-		<img src="https://github.com/v2rayn/v2rayn.github.io/blob/master/a3.png?raw=true" />
+		<img src="http://jpg.8888888.best/a3.png?raw=true" />
 	</p>
 	<p>
 		点从剪贴板导入
@@ -45,13 +45,13 @@
 		6.点右下角箭头连接，显示已连接，就可以使用了
 	</p>
 	<p>
-		<img src="https://github.com/v2rayn/v2rayn.github.io/blob/master/a4.png?raw=true" />
+		<img src="http://jpg.8888888.best/a4.png?raw=true" />
 	</p>
 	<p>
 		<br />
 	</p>
 	<p>
-		<img src="https://github.com/v2rayn/v2rayn.github.io/blob/master/a5.png?raw=true" />
+		<img src="http://jpg.8888888.best/a5.png?raw=true" />
 	</p>
 	<p>
 	</p>
