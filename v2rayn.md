@@ -80,7 +80,7 @@
 	<br />
 </p>
 <p>
-		<img src="http://jpg.8888888.best/n9.jpg" /></p>
+		<img src="http://jpg.8888888.best/n9.jpg" />
 </p>
 <p>
 	<br />
