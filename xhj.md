@@ -12,7 +12,7 @@
 		下载过程
 	</p>
 	<p>
-		进入App&nbsp;Store苹果应用商店，查找"小火箭"，并下载
+		登陆美区帐号后，进入App&nbsp;Store苹果应用商店，查找"小火箭"，并下载
 	</p>
 	<p>
 		<img src="http://jpg.8888888.best/x1.jpg" />
