@@ -6,7 +6,7 @@
 		一、下载使用
 	</p>
 	<p>
-		使用一次性美区id去苹果应用商店下载Shadowrocket&nbsp;(小火箭)
+		使用一次性美区id帐号登陆苹果应用商店下载Shadowrocket&nbsp;(小火箭)
 	</p>
 	<p>
 		下载过程
