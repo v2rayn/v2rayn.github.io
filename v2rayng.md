@@ -6,7 +6,7 @@
 		同时v2rayng也是在Android手机上最好用的v2ray客户端。
 	</p>
 	<p>
-		1.第一步，进入下载地址<a href="https://ssrr.lanzous.com/i5kb4wh" target="_blank">https://ssrr.lanzous.com/i5kb4wh</a>
+		1.第一步，进入下载地址<a href="" target="_blank">http://xz.8888888.best/v2.apk</a>
 	</p>
 	<p>
 		&nbsp;下载最新的v2rayng程序。
